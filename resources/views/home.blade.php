@@ -2,5 +2,5 @@
 
 
 @section('container')
-  <h1>Halaman Home</h1>
+  <h1>My Home</h1>
 @endsection

@@ -2,7 +2,7 @@
 
 @section('container')
 
-<h1 class="mb-5">Halaman Posts</h1>
+<h1 class="mb-5">My Posts</h1>
 
   @foreach ($artikel as $post)
   {{-- @dd($post) --}}
